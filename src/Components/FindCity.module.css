@@ -1,0 +1,20 @@
+.search {
+    width: 61%;
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 20px;
+    font-size: 120%;
+    background-color: #1b52c1;
+    border: none;
+    border-color: transparent;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+}
+
+input[type="text"] {
+    padding-left: 1%;
+    color: white;
+}

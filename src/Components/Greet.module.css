@@ -1,0 +1,35 @@
+.greet {
+  width: 49%;
+  background-color: #1b52c1;
+  color: white;
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  margin-top: 1%;
+  margin-left: 1.5%;
+}
+
+.time {
+  margin: 0%;
+  margin-top: 3%;
+  margin-left: 5%;
+  font-size: 4.7rem;
+  line-height: 99%;
+}
+
+.date {
+  margin: 0%;
+  margin-left: 5%;
+  font-size: 2.5rem;
+}
+
+.phrase {
+  margin: 0;
+  margin-left: 5%;
+  font-size: 2rem;
+}
+
+.outwear {
+  margin: 0;
+  margin-left: 5%;
+  font-size: 1.5rem;
+}
